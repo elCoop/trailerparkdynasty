@@ -7,12 +7,10 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Welcome to our new homepage, everyone. This can be used as a good overview for our league and to check league history a little bit easier, than lets say sleeper right now.</p>
+  <p>I'm currently working on the constitution right now. So any suggestions, feel free to place it in chat. Also, we'd like to setup a league meeting somepoint before the season starts. We can discuss rule changes and anything else that comes to mind.</p>
+  <p>The draft date is fluid currently. We can all try to find a date to do a draft, or if our schedules are too nuts (some of us had a kid, congrats Carrie and Zach!), we can always opt to do a slow draft. This would involve a 24hr draft allotment for each pick. It could allow some of us with onorthodox schedules to make picks when we have a chance and to allow other users to question why the fuck they'd make that pick after 24hrs of thinking.</p>
+  <p>Also, any other suggestions hmu. I'm always around. If I'm not home, I'm driving around Austin, wasting time.</p>
 `;
 
 /*   STEP 3   */
